@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/8f/40/ec/8f40eceefd5f1342194781666b323653.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+    font-family: sans-serif;
+}
